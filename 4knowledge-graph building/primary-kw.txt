@@ -1,0 +1,31 @@
+Supercapacitors 
+(SCs)
+Electrochemical capacitors
+Energy storage device
+Electric double layer capacitor 
+(EDLC)
+Pseudocapacitance
+Electrostatic adsorption
+Electrosorption 
+Faradaic redox reactions
+Stern layer
+Helmholtz double layer
+Double layer formation 
+Activated carbon 
+Porous carbon 
+Carbon nanotubes 
+Graphene 
+Graphite oxide 
+(GO) 
+Reduced graphite oxide 
+(rGO)
+Surface charge accumulation
+High power applications
+Charge separation at electrode/electrolyte interface
+Non-faradaic process
+Specific surface area
+Pore size distribution
+Electrochemical interface
+EDLC characteristics
+Diffuse double layer
+Polarizable capacitor electrode

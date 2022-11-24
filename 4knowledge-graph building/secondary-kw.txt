@@ -1,0 +1,67 @@
+Specific capacitance
+Areal capacitance
+Porosity of carbon
+Energy density
+Power density
+Farads
+Farad per gram 
+Farad per cm2 
+High specific surface area of carbon
+Ionic resistance
+High conductive carbon electrode
+Surface functional groups
+Pseudocapacitance
+Cyclic stability of carbon
+Mesoporous carbon
+Ion mobility
+Carbon electrodes
+Carbonaceous materials
+BET surface area
+(Brunauer-Emmett-Teller) 
+Surface morphology
+High Potential window
+Aqueous electrolyte for EDLC
+Organic electrolyte for EDLC
+Ionic liquids for EDLC
+Electrode-electrolyte interface
+Wettability
+Charge accumulation
+Double layer formation
+Surface modification
+Electrochemical impedance spectroscopy 
+(EIS)
+Cyclic voltammetry 
+(CV)
+Charge Discharge curve 
+(CDC)
+EDLC Electrode material
+Fourier Transform Infrared Spectroscopy 
+(FTIR)
+Electrochemical characterization
+Charge storability
+Equivalent series resistance 
+(ESR)
+Biomass carbon
+Hydrothermal
+Calcination
+Activation
+Electrochemical activation
+Chemical activation
+Physical activation
+Potassium hydroxide
+(KOH)
+Refluxing
+Acid treatment
+Warburg diffusion
+Activation agent
+Pore diameter
+Pore volume
+Activation temperature
+Microporosity
+Symmetric electrodes
+Current density
+Cyclic voltametric scan rate 
+Tailoring of carbon surface
+Current collectors
+Active material
+
